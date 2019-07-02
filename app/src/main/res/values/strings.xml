@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Android Terminology</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="enter_new_android_terms">Enter new android terms</string>
+
+</resources>
