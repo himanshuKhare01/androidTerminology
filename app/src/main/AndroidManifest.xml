@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    package="android.terminology">
+    package="android.Guide">
 
     <application
         android:allowBackup="true"
@@ -11,7 +11,7 @@
         android:theme="@style/AppTheme"
         tools:ignore="GoogleAppIndexingWarning">
         <activity
-            android:name=".Activity.IntroActvity"
+            android:name="android.Guide.Activity.IntroActvity"
             android:theme="@style/IntroTheme"
             android:configChanges="keyboardHidden|orientation|screenSize">
             <intent-filter>
@@ -20,11 +20,11 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".Activity.MainActivity"
+        <activity android:name="android.Guide.Activity.MainActivity"
             android:configChanges="keyboardHidden|orientation|screenSize"/>
-        <activity android:name=".Activity.StackCardActivity"
+        <activity android:name="android.Guide.Activity.StackCardActivity"
             android:configChanges="keyboardHidden|orientation|screenSize"
-            android:parentActivityName=".Activity.MainActivity"/>
+            android:parentActivityName="android.Guide.Activity.MainActivity"/>
     </application>
 
 </manifest>

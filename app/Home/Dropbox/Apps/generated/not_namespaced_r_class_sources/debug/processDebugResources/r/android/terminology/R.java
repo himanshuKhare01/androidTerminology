@@ -5,7 +5,7 @@
  * should not be modified by hand.
  */
 
-package android.terminology;
+package android.Guide;
 
 public final class R {
   public static final class anim {
@@ -6760,7 +6760,7 @@ public final class R {
      */
     public static final int AlertDialog_android_layout=0;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#buttonIconDimen}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#buttonIconDimen}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -6773,7 +6773,7 @@ public final class R {
      */
     public static final int AlertDialog_buttonIconDimen=1;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#buttonPanelSideLayout}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#buttonPanelSideLayout}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6785,7 +6785,7 @@ public final class R {
      */
     public static final int AlertDialog_buttonPanelSideLayout=2;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#listItemLayout}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#listItemLayout}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6797,7 +6797,7 @@ public final class R {
      */
     public static final int AlertDialog_listItemLayout=3;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#listLayout}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#listLayout}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6809,7 +6809,7 @@ public final class R {
      */
     public static final int AlertDialog_listLayout=4;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#multiChoiceItemLayout}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#multiChoiceItemLayout}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6821,7 +6821,7 @@ public final class R {
      */
     public static final int AlertDialog_multiChoiceItemLayout=5;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#showTitle}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#showTitle}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
@@ -6831,7 +6831,7 @@ public final class R {
      */
     public static final int AlertDialog_showTitle=6;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#singleChoiceItemLayout}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#singleChoiceItemLayout}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7130,7 +7130,7 @@ public final class R {
      */
     public static final int AppBarLayout_elevation=3;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#expanded}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#expanded}
      * attribute's value can be found in the {@link #AppBarLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
@@ -7140,7 +7140,7 @@ public final class R {
      */
     public static final int AppBarLayout_expanded=4;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#liftOnScroll}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#liftOnScroll}
      * attribute's value can be found in the {@link #AppBarLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
@@ -7170,7 +7170,7 @@ public final class R {
       0x7f0301a7, 0x7f0301a8, 0x7f0301a9, 0x7f0301aa
     };
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#state_collapsed}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#state_collapsed}
      * attribute's value can be found in the {@link #AppBarLayoutStates} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
@@ -7180,7 +7180,7 @@ public final class R {
      */
     public static final int AppBarLayoutStates_state_collapsed=0;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#state_collapsible}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#state_collapsible}
      * attribute's value can be found in the {@link #AppBarLayoutStates} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
@@ -7190,7 +7190,7 @@ public final class R {
      */
     public static final int AppBarLayoutStates_state_collapsible=1;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#state_liftable}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#state_liftable}
      * attribute's value can be found in the {@link #AppBarLayoutStates} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
@@ -7200,7 +7200,7 @@ public final class R {
      */
     public static final int AppBarLayoutStates_state_liftable=2;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#state_lifted}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#state_lifted}
      * attribute's value can be found in the {@link #AppBarLayoutStates} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
@@ -7226,7 +7226,7 @@ public final class R {
       0x7f030150, 0x7f030151
     };
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#layout_scrollFlags}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#layout_scrollFlags}
      * attribute's value can be found in the {@link #AppBarLayout_Layout} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -7247,7 +7247,7 @@ public final class R {
      */
     public static final int AppBarLayout_Layout_layout_scrollFlags=0;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#layout_scrollInterpolator}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#layout_scrollInterpolator}
      * attribute's value can be found in the {@link #AppBarLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8175,7 +8175,7 @@ public final class R {
      */
     public static final int AppCompatTheme_actionBarStyle=7;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#actionBarTabBarStyle}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#actionBarTabBarStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8200,7 +8200,7 @@ public final class R {
      */
     public static final int AppCompatTheme_actionBarTabStyle=9;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#actionBarTabTextStyle}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#actionBarTabTextStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8315,7 +8315,7 @@ public final class R {
      */
     public static final int AppCompatTheme_actionModeBackground=17;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#actionModeCloseButtonStyle}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#actionModeCloseButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8444,7 +8444,7 @@ public final class R {
      */
     public static final int AppCompatTheme_actionModeSplitBackground=27;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#actionModeStyle}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#actionModeStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8469,7 +8469,7 @@ public final class R {
      */
     public static final int AppCompatTheme_actionModeWebSearchDrawable=29;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#actionOverflowButtonStyle}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#actionOverflowButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8481,7 +8481,7 @@ public final class R {
      */
     public static final int AppCompatTheme_actionOverflowButtonStyle=30;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#actionOverflowMenuStyle}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#actionOverflowMenuStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8506,7 +8506,7 @@ public final class R {
      */
     public static final int AppCompatTheme_activityChooserViewStyle=32;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#alertDialogButtonGroupStyle}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#alertDialogButtonGroupStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8518,7 +8518,7 @@ public final class R {
      */
     public static final int AppCompatTheme_alertDialogButtonGroupStyle=33;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#alertDialogCenterButtons}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#alertDialogCenterButtons}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
@@ -8528,7 +8528,7 @@ public final class R {
      */
     public static final int AppCompatTheme_alertDialogCenterButtons=34;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#alertDialogStyle}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#alertDialogStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9038,7 +9038,7 @@ public final class R {
      */
     public static final int AppCompatTheme_listMenuViewStyle=73;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#listPopupWindowStyle}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#listPopupWindowStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9522,7 +9522,7 @@ public final class R {
      */
     public static final int AppCompatTheme_tooltipFrameBackground=109;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#viewInflaterClass}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#viewInflaterClass}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
@@ -9739,7 +9739,7 @@ public final class R {
      */
     public static final int BottomAppBar_backgroundTint=0;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#fabAlignmentMode}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#fabAlignmentMode}
      * attribute's value can be found in the {@link #BottomAppBar} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -9756,7 +9756,7 @@ public final class R {
      */
     public static final int BottomAppBar_fabAlignmentMode=1;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#fabCradleMargin}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#fabCradleMargin}
      * attribute's value can be found in the {@link #BottomAppBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9769,7 +9769,7 @@ public final class R {
      */
     public static final int BottomAppBar_fabCradleMargin=2;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#fabCradleRoundedCornerRadius}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#fabCradleRoundedCornerRadius}
      * attribute's value can be found in the {@link #BottomAppBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9782,7 +9782,7 @@ public final class R {
      */
     public static final int BottomAppBar_fabCradleRoundedCornerRadius=3;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#fabCradleVerticalOffset}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#fabCradleVerticalOffset}
      * attribute's value can be found in the {@link #BottomAppBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9795,7 +9795,7 @@ public final class R {
      */
     public static final int BottomAppBar_fabCradleVerticalOffset=4;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#hideOnScroll}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#hideOnScroll}
      * attribute's value can be found in the {@link #BottomAppBar} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
@@ -9853,7 +9853,7 @@ public final class R {
      */
     public static final int BottomNavigationView_elevation=0;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#itemBackground}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#itemBackground}
      * attribute's value can be found in the {@link #BottomNavigationView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9865,7 +9865,7 @@ public final class R {
      */
     public static final int BottomNavigationView_itemBackground=1;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#itemHorizontalTranslationEnabled}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#itemHorizontalTranslationEnabled}
      * attribute's value can be found in the {@link #BottomNavigationView} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
@@ -9875,7 +9875,7 @@ public final class R {
      */
     public static final int BottomNavigationView_itemHorizontalTranslationEnabled=2;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#itemIconSize}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#itemIconSize}
      * attribute's value can be found in the {@link #BottomNavigationView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9888,7 +9888,7 @@ public final class R {
      */
     public static final int BottomNavigationView_itemIconSize=3;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#itemIconTint}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#itemIconTint}
      * attribute's value can be found in the {@link #BottomNavigationView} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
@@ -9899,7 +9899,7 @@ public final class R {
      */
     public static final int BottomNavigationView_itemIconTint=4;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#itemTextAppearanceActive}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#itemTextAppearanceActive}
      * attribute's value can be found in the {@link #BottomNavigationView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9911,7 +9911,7 @@ public final class R {
      */
     public static final int BottomNavigationView_itemTextAppearanceActive=5;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#itemTextAppearanceInactive}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#itemTextAppearanceInactive}
      * attribute's value can be found in the {@link #BottomNavigationView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9923,7 +9923,7 @@ public final class R {
      */
     public static final int BottomNavigationView_itemTextAppearanceInactive=6;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#itemTextColor}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#itemTextColor}
      * attribute's value can be found in the {@link #BottomNavigationView} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
@@ -9934,7 +9934,7 @@ public final class R {
      */
     public static final int BottomNavigationView_itemTextColor=7;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#labelVisibilityMode}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#labelVisibilityMode}
      * attribute's value can be found in the {@link #BottomNavigationView} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -9953,7 +9953,7 @@ public final class R {
      */
     public static final int BottomNavigationView_labelVisibilityMode=8;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#menu}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#menu}
      * attribute's value can be found in the {@link #BottomNavigationView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9985,7 +9985,7 @@ public final class R {
       0x7f03003a, 0x7f03003b, 0x7f03003d, 0x7f03003e
     };
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#behavior_fitToContents}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#behavior_fitToContents}
      * attribute's value can be found in the {@link #BottomSheetBehavior_Layout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
@@ -9995,7 +9995,7 @@ public final class R {
      */
     public static final int BottomSheetBehavior_Layout_behavior_fitToContents=0;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#behavior_hideable}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#behavior_hideable}
      * attribute's value can be found in the {@link #BottomSheetBehavior_Layout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
@@ -10005,7 +10005,7 @@ public final class R {
      */
     public static final int BottomSheetBehavior_Layout_behavior_hideable=1;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#behavior_peekHeight}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#behavior_peekHeight}
      * attribute's value can be found in the {@link #BottomSheetBehavior_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10026,7 +10026,7 @@ public final class R {
      */
     public static final int BottomSheetBehavior_Layout_behavior_peekHeight=2;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#behavior_skipCollapsed}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#behavior_skipCollapsed}
      * attribute's value can be found in the {@link #BottomSheetBehavior_Layout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
@@ -10431,7 +10431,7 @@ public final class R {
      */
     public static final int Chip_android_checkable=4;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#checkedIcon}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#checkedIcon}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10443,7 +10443,7 @@ public final class R {
      */
     public static final int Chip_checkedIcon=5;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#checkedIconEnabled}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#checkedIconEnabled}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
@@ -10453,7 +10453,7 @@ public final class R {
      */
     public static final int Chip_checkedIconEnabled=6;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#checkedIconVisible}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#checkedIconVisible}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
@@ -10463,7 +10463,7 @@ public final class R {
      */
     public static final int Chip_checkedIconVisible=7;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#chipBackgroundColor}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#chipBackgroundColor}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
@@ -10474,7 +10474,7 @@ public final class R {
      */
     public static final int Chip_chipBackgroundColor=8;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#chipCornerRadius}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#chipCornerRadius}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10487,7 +10487,7 @@ public final class R {
      */
     public static final int Chip_chipCornerRadius=9;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#chipEndPadding}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#chipEndPadding}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10500,7 +10500,7 @@ public final class R {
      */
     public static final int Chip_chipEndPadding=10;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#chipIcon}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#chipIcon}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10512,7 +10512,7 @@ public final class R {
      */
     public static final int Chip_chipIcon=11;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#chipIconEnabled}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#chipIconEnabled}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
@@ -10522,7 +10522,7 @@ public final class R {
      */
     public static final int Chip_chipIconEnabled=12;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#chipIconSize}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#chipIconSize}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10535,7 +10535,7 @@ public final class R {
      */
     public static final int Chip_chipIconSize=13;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#chipIconTint}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#chipIconTint}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
@@ -10546,7 +10546,7 @@ public final class R {
      */
     public static final int Chip_chipIconTint=14;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#chipIconVisible}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#chipIconVisible}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
@@ -10556,7 +10556,7 @@ public final class R {
      */
     public static final int Chip_chipIconVisible=15;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#chipMinHeight}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#chipMinHeight}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10569,7 +10569,7 @@ public final class R {
      */
     public static final int Chip_chipMinHeight=16;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#chipStartPadding}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#chipStartPadding}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10582,7 +10582,7 @@ public final class R {
      */
     public static final int Chip_chipStartPadding=17;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#chipStrokeColor}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#chipStrokeColor}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
@@ -10593,7 +10593,7 @@ public final class R {
      */
     public static final int Chip_chipStrokeColor=18;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#chipStrokeWidth}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#chipStrokeWidth}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10619,7 +10619,7 @@ public final class R {
      */
     public static final int Chip_closeIcon=20;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#closeIconEnabled}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#closeIconEnabled}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
@@ -10629,7 +10629,7 @@ public final class R {
      */
     public static final int Chip_closeIconEnabled=21;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#closeIconEndPadding}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#closeIconEndPadding}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10642,7 +10642,7 @@ public final class R {
      */
     public static final int Chip_closeIconEndPadding=22;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#closeIconSize}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#closeIconSize}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10655,7 +10655,7 @@ public final class R {
      */
     public static final int Chip_closeIconSize=23;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#closeIconStartPadding}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#closeIconStartPadding}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10668,7 +10668,7 @@ public final class R {
      */
     public static final int Chip_closeIconStartPadding=24;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#closeIconTint}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#closeIconTint}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
@@ -10679,7 +10679,7 @@ public final class R {
      */
     public static final int Chip_closeIconTint=25;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#closeIconVisible}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#closeIconVisible}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
@@ -10689,7 +10689,7 @@ public final class R {
      */
     public static final int Chip_closeIconVisible=26;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#hideMotionSpec}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#hideMotionSpec}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10701,7 +10701,7 @@ public final class R {
      */
     public static final int Chip_hideMotionSpec=27;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#iconEndPadding}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#iconEndPadding}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10714,7 +10714,7 @@ public final class R {
      */
     public static final int Chip_iconEndPadding=28;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#iconStartPadding}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#iconStartPadding}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10727,7 +10727,7 @@ public final class R {
      */
     public static final int Chip_iconStartPadding=29;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#rippleColor}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#rippleColor}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
@@ -10738,7 +10738,7 @@ public final class R {
      */
     public static final int Chip_rippleColor=30;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#showMotionSpec}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#showMotionSpec}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10750,7 +10750,7 @@ public final class R {
      */
     public static final int Chip_showMotionSpec=31;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#textEndPadding}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#textEndPadding}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10763,7 +10763,7 @@ public final class R {
      */
     public static final int Chip_textEndPadding=32;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#textStartPadding}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#textStartPadding}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10801,7 +10801,7 @@ public final class R {
       0x7f03019b, 0x7f03019c
     };
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#checkedChip}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#checkedChip}
      * attribute's value can be found in the {@link #ChipGroup} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10813,7 +10813,7 @@ public final class R {
      */
     public static final int ChipGroup_checkedChip=0;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#chipSpacing}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#chipSpacing}
      * attribute's value can be found in the {@link #ChipGroup} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10826,7 +10826,7 @@ public final class R {
      */
     public static final int ChipGroup_chipSpacing=1;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#chipSpacingHorizontal}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#chipSpacingHorizontal}
      * attribute's value can be found in the {@link #ChipGroup} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10839,7 +10839,7 @@ public final class R {
      */
     public static final int ChipGroup_chipSpacingHorizontal=2;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#chipSpacingVertical}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#chipSpacingVertical}
      * attribute's value can be found in the {@link #ChipGroup} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10852,7 +10852,7 @@ public final class R {
      */
     public static final int ChipGroup_chipSpacingVertical=3;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#singleLine}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#singleLine}
      * attribute's value can be found in the {@link #ChipGroup} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
@@ -10862,7 +10862,7 @@ public final class R {
      */
     public static final int ChipGroup_singleLine=4;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#singleSelection}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#singleSelection}
      * attribute's value can be found in the {@link #ChipGroup} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
@@ -10919,7 +10919,7 @@ public final class R {
       0x7f0301ac, 0x7f0301f9, 0x7f0301fa, 0x7f030204
     };
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#collapsedTitleGravity}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#collapsedTitleGravity}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -10944,7 +10944,7 @@ public final class R {
      */
     public static final int CollapsingToolbarLayout_collapsedTitleGravity=0;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#collapsedTitleTextAppearance}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#collapsedTitleTextAppearance}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10956,7 +10956,7 @@ public final class R {
      */
     public static final int CollapsingToolbarLayout_collapsedTitleTextAppearance=1;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#contentScrim}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#contentScrim}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
@@ -10967,7 +10967,7 @@ public final class R {
      */
     public static final int CollapsingToolbarLayout_contentScrim=2;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#expandedTitleGravity}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#expandedTitleGravity}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -10992,7 +10992,7 @@ public final class R {
      */
     public static final int CollapsingToolbarLayout_expandedTitleGravity=3;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#expandedTitleMargin}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#expandedTitleMargin}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11005,7 +11005,7 @@ public final class R {
      */
     public static final int CollapsingToolbarLayout_expandedTitleMargin=4;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#expandedTitleMarginBottom}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#expandedTitleMarginBottom}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11018,7 +11018,7 @@ public final class R {
      */
     public static final int CollapsingToolbarLayout_expandedTitleMarginBottom=5;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#expandedTitleMarginEnd}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#expandedTitleMarginEnd}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11031,7 +11031,7 @@ public final class R {
      */
     public static final int CollapsingToolbarLayout_expandedTitleMarginEnd=6;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#expandedTitleMarginStart}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#expandedTitleMarginStart}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11044,7 +11044,7 @@ public final class R {
      */
     public static final int CollapsingToolbarLayout_expandedTitleMarginStart=7;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#expandedTitleMarginTop}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#expandedTitleMarginTop}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11057,7 +11057,7 @@ public final class R {
      */
     public static final int CollapsingToolbarLayout_expandedTitleMarginTop=8;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#expandedTitleTextAppearance}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#expandedTitleTextAppearance}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11069,7 +11069,7 @@ public final class R {
      */
     public static final int CollapsingToolbarLayout_expandedTitleTextAppearance=9;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#scrimAnimationDuration}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#scrimAnimationDuration}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
@@ -11078,7 +11078,7 @@ public final class R {
      */
     public static final int CollapsingToolbarLayout_scrimAnimationDuration=10;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#scrimVisibleHeightTrigger}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#scrimVisibleHeightTrigger}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11091,7 +11091,7 @@ public final class R {
      */
     public static final int CollapsingToolbarLayout_scrimVisibleHeightTrigger=11;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#statusBarScrim}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#statusBarScrim}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
@@ -11102,7 +11102,7 @@ public final class R {
      */
     public static final int CollapsingToolbarLayout_statusBarScrim=12;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#title}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#title}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
@@ -11112,7 +11112,7 @@ public final class R {
      */
     public static final int CollapsingToolbarLayout_title=13;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#titleEnabled}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#titleEnabled}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
@@ -11122,7 +11122,7 @@ public final class R {
      */
     public static final int CollapsingToolbarLayout_titleEnabled=14;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#toolbarId}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#toolbarId}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11150,7 +11150,7 @@ public final class R {
       0x7f030119, 0x7f03011a
     };
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#layout_collapseMode}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#layout_collapseMode}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout_Layout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -11168,7 +11168,7 @@ public final class R {
      */
     public static final int CollapsingToolbarLayout_Layout_layout_collapseMode=0;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#layout_collapseParallaxMultiplier}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#layout_collapseParallaxMultiplier}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout_Layout} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
@@ -11510,7 +11510,7 @@ public final class R {
      */
     public static final int ConstraintLayout_Layout_android_minHeight=4;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#barrierAllowsGoneWidgets}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#barrierAllowsGoneWidgets}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
@@ -11520,7 +11520,7 @@ public final class R {
      */
     public static final int ConstraintLayout_Layout_barrierAllowsGoneWidgets=5;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#barrierDirection}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#barrierDirection}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -11541,7 +11541,7 @@ public final class R {
      */
     public static final int ConstraintLayout_Layout_barrierDirection=6;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#chainUseRtl}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#chainUseRtl}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
@@ -11551,7 +11551,7 @@ public final class R {
      */
     public static final int ConstraintLayout_Layout_chainUseRtl=7;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#constraintSet}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#constraintSet}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11563,7 +11563,7 @@ public final class R {
      */
     public static final int ConstraintLayout_Layout_constraintSet=8;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#constraint_referenced_ids}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#constraint_referenced_ids}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
@@ -11573,7 +11573,7 @@ public final class R {
      */
     public static final int ConstraintLayout_Layout_constraint_referenced_ids=9;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#layout_constrainedHeight}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#layout_constrainedHeight}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
@@ -11583,7 +11583,7 @@ public final class R {
      */
     public static final int ConstraintLayout_Layout_layout_constrainedHeight=10;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#layout_constrainedWidth}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#layout_constrainedWidth}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
@@ -11593,7 +11593,7 @@ public final class R {
      */
     public static final int ConstraintLayout_Layout_layout_constrainedWidth=11;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#layout_constraintBaseline_creator}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#layout_constraintBaseline_creator}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
@@ -11602,7 +11602,7 @@ public final class R {
      */
     public static final int ConstraintLayout_Layout_layout_constraintBaseline_creator=12;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#layout_constraintBaseline_toBaselineOf}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#layout_constraintBaseline_toBaselineOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11622,7 +11622,7 @@ public final class R {
      */
     public static final int ConstraintLayout_Layout_layout_constraintBaseline_toBaselineOf=13;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#layout_constraintBottom_creator}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#layout_constraintBottom_creator}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
@@ -11631,7 +11631,7 @@ public final class R {
      */
     public static final int ConstraintLayout_Layout_layout_constraintBottom_creator=14;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#layout_constraintBottom_toBottomOf}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#layout_constraintBottom_toBottomOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11651,7 +11651,7 @@ public final class R {
      */
     public static final int ConstraintLayout_Layout_layout_constraintBottom_toBottomOf=15;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#layout_constraintBottom_toTopOf}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#layout_constraintBottom_toTopOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11671,7 +11671,7 @@ public final class R {
      */
     public static final int ConstraintLayout_Layout_layout_constraintBottom_toTopOf=16;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#layout_constraintCircle}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#layout_constraintCircle}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11683,7 +11683,7 @@ public final class R {
      */
     public static final int ConstraintLayout_Layout_layout_constraintCircle=17;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#layout_constraintCircleAngle}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#layout_constraintCircleAngle}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
@@ -11692,7 +11692,7 @@ public final class R {
      */
     public static final int ConstraintLayout_Layout_layout_constraintCircleAngle=18;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#layout_constraintCircleRadius}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#layout_constraintCircleRadius}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11705,7 +11705,7 @@ public final class R {
      */
     public static final int ConstraintLayout_Layout_layout_constraintCircleRadius=19;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#layout_constraintDimensionRatio}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#layout_constraintDimensionRatio}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
@@ -11715,7 +11715,7 @@ public final class R {
      */
     public static final int ConstraintLayout_Layout_layout_constraintDimensionRatio=20;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#layout_constraintEnd_toEndOf}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#layout_constraintEnd_toEndOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11735,7 +11735,7 @@ public final class R {
      */
     public static final int ConstraintLayout_Layout_layout_constraintEnd_toEndOf=21;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#layout_constraintEnd_toStartOf}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#layout_constraintEnd_toStartOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11755,7 +11755,7 @@ public final class R {
      */
     public static final int ConstraintLayout_Layout_layout_constraintEnd_toStartOf=22;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#layout_constraintGuide_begin}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#layout_constraintGuide_begin}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11768,7 +11768,7 @@ public final class R {
      */
     public static final int ConstraintLayout_Layout_layout_constraintGuide_begin=23;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#layout_constraintGuide_end}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#layout_constraintGuide_end}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11781,7 +11781,7 @@ public final class R {
      */
     public static final int ConstraintLayout_Layout_layout_constraintGuide_end=24;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#layout_constraintGuide_percent}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#layout_constraintGuide_percent}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
@@ -11790,7 +11790,7 @@ public final class R {
      */
     public static final int ConstraintLayout_Layout_layout_constraintGuide_percent=25;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#layout_constraintHeight_default}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#layout_constraintHeight_default}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -11808,7 +11808,7 @@ public final class R {
      */
     public static final int ConstraintLayout_Layout_layout_constraintHeight_default=26;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#layout_constraintHeight_max}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#layout_constraintHeight_max}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11829,7 +11829,7 @@ public final class R {
      */
     public static final int ConstraintLayout_Layout_layout_constraintHeight_max=27;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#layout_constraintHeight_min}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#layout_constraintHeight_min}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11850,7 +11850,7 @@ public final class R {
      */
     public static final int ConstraintLayout_Layout_layout_constraintHeight_min=28;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#layout_constraintHeight_percent}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#layout_constraintHeight_percent}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
@@ -11859,7 +11859,7 @@ public final class R {
      */
     public static final int ConstraintLayout_Layout_layout_constraintHeight_percent=29;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#layout_constraintHorizontal_bias}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#layout_constraintHorizontal_bias}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
@@ -11868,7 +11868,7 @@ public final class R {
      */
     public static final int ConstraintLayout_Layout_layout_constraintHorizontal_bias=30;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#layout_constraintHorizontal_chainStyle}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#layout_constraintHorizontal_chainStyle}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -11886,7 +11886,7 @@ public final class R {
      */
     public static final int ConstraintLayout_Layout_layout_constraintHorizontal_chainStyle=31;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#layout_constraintHorizontal_weight}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#layout_constraintHorizontal_weight}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
@@ -11895,7 +11895,7 @@ public final class R {
      */
     public static final int ConstraintLayout_Layout_layout_constraintHorizontal_weight=32;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#layout_constraintLeft_creator}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#layout_constraintLeft_creator}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
@@ -11904,7 +11904,7 @@ public final class R {
      */
     public static final int ConstraintLayout_Layout_layout_constraintLeft_creator=33;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#layout_constraintLeft_toLeftOf}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#layout_constraintLeft_toLeftOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11924,7 +11924,7 @@ public final class R {
      */
     public static final int ConstraintLayout_Layout_layout_constraintLeft_toLeftOf=34;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#layout_constraintLeft_toRightOf}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#layout_constraintLeft_toRightOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11944,7 +11944,7 @@ public final class R {
      */
     public static final int ConstraintLayout_Layout_layout_constraintLeft_toRightOf=35;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#layout_constraintRight_creator}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#layout_constraintRight_creator}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
@@ -11953,7 +11953,7 @@ public final class R {
      */
     public static final int ConstraintLayout_Layout_layout_constraintRight_creator=36;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#layout_constraintRight_toLeftOf}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#layout_constraintRight_toLeftOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11973,7 +11973,7 @@ public final class R {
      */
     public static final int ConstraintLayout_Layout_layout_constraintRight_toLeftOf=37;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#layout_constraintRight_toRightOf}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#layout_constraintRight_toRightOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11993,7 +11993,7 @@ public final class R {
      */
     public static final int ConstraintLayout_Layout_layout_constraintRight_toRightOf=38;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#layout_constraintStart_toEndOf}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#layout_constraintStart_toEndOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12013,7 +12013,7 @@ public final class R {
      */
     public static final int ConstraintLayout_Layout_layout_constraintStart_toEndOf=39;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#layout_constraintStart_toStartOf}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#layout_constraintStart_toStartOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12033,7 +12033,7 @@ public final class R {
      */
     public static final int ConstraintLayout_Layout_layout_constraintStart_toStartOf=40;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#layout_constraintTop_creator}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#layout_constraintTop_creator}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
@@ -12042,7 +12042,7 @@ public final class R {
      */
     public static final int ConstraintLayout_Layout_layout_constraintTop_creator=41;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#layout_constraintTop_toBottomOf}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#layout_constraintTop_toBottomOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12062,7 +12062,7 @@ public final class R {
      */
     public static final int ConstraintLayout_Layout_layout_constraintTop_toBottomOf=42;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#layout_constraintTop_toTopOf}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#layout_constraintTop_toTopOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12082,7 +12082,7 @@ public final class R {
      */
     public static final int ConstraintLayout_Layout_layout_constraintTop_toTopOf=43;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#layout_constraintVertical_bias}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#layout_constraintVertical_bias}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
@@ -12091,7 +12091,7 @@ public final class R {
      */
     public static final int ConstraintLayout_Layout_layout_constraintVertical_bias=44;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#layout_constraintVertical_chainStyle}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#layout_constraintVertical_chainStyle}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -12109,7 +12109,7 @@ public final class R {
      */
     public static final int ConstraintLayout_Layout_layout_constraintVertical_chainStyle=45;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#layout_constraintVertical_weight}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#layout_constraintVertical_weight}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
@@ -12118,7 +12118,7 @@ public final class R {
      */
     public static final int ConstraintLayout_Layout_layout_constraintVertical_weight=46;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#layout_constraintWidth_default}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#layout_constraintWidth_default}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -12136,7 +12136,7 @@ public final class R {
      */
     public static final int ConstraintLayout_Layout_layout_constraintWidth_default=47;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#layout_constraintWidth_max}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#layout_constraintWidth_max}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -12157,7 +12157,7 @@ public final class R {
      */
     public static final int ConstraintLayout_Layout_layout_constraintWidth_max=48;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#layout_constraintWidth_min}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#layout_constraintWidth_min}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -12178,7 +12178,7 @@ public final class R {
      */
     public static final int ConstraintLayout_Layout_layout_constraintWidth_min=49;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#layout_constraintWidth_percent}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#layout_constraintWidth_percent}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
@@ -12187,7 +12187,7 @@ public final class R {
      */
     public static final int ConstraintLayout_Layout_layout_constraintWidth_percent=50;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#layout_editor_absoluteX}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#layout_editor_absoluteX}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -12200,7 +12200,7 @@ public final class R {
      */
     public static final int ConstraintLayout_Layout_layout_editor_absoluteX=51;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#layout_editor_absoluteY}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#layout_editor_absoluteY}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -12213,7 +12213,7 @@ public final class R {
      */
     public static final int ConstraintLayout_Layout_layout_editor_absoluteY=52;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#layout_goneMarginBottom}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#layout_goneMarginBottom}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -12226,7 +12226,7 @@ public final class R {
      */
     public static final int ConstraintLayout_Layout_layout_goneMarginBottom=53;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#layout_goneMarginEnd}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#layout_goneMarginEnd}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -12239,7 +12239,7 @@ public final class R {
      */
     public static final int ConstraintLayout_Layout_layout_goneMarginEnd=54;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#layout_goneMarginLeft}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#layout_goneMarginLeft}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -12252,7 +12252,7 @@ public final class R {
      */
     public static final int ConstraintLayout_Layout_layout_goneMarginLeft=55;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#layout_goneMarginRight}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#layout_goneMarginRight}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -12265,7 +12265,7 @@ public final class R {
      */
     public static final int ConstraintLayout_Layout_layout_goneMarginRight=56;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#layout_goneMarginStart}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#layout_goneMarginStart}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -12278,7 +12278,7 @@ public final class R {
      */
     public static final int ConstraintLayout_Layout_layout_goneMarginStart=57;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#layout_goneMarginTop}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#layout_goneMarginTop}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -12291,7 +12291,7 @@ public final class R {
      */
     public static final int ConstraintLayout_Layout_layout_goneMarginTop=58;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#layout_optimizationLevel}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#layout_optimizationLevel}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -12329,7 +12329,7 @@ public final class R {
       0x7f030095, 0x7f0300bc
     };
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#content}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#content}
      * attribute's value can be found in the {@link #ConstraintLayout_placeholder} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12341,7 +12341,7 @@ public final class R {
      */
     public static final int ConstraintLayout_placeholder_content=0;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#emptyVisibility}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#emptyVisibility}
      * attribute's value can be found in the {@link #ConstraintLayout_placeholder} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -12904,7 +12904,7 @@ public final class R {
      */
     public static final int ConstraintSet_android_elevation=26;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#barrierAllowsGoneWidgets}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#barrierAllowsGoneWidgets}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
@@ -12914,7 +12914,7 @@ public final class R {
      */
     public static final int ConstraintSet_barrierAllowsGoneWidgets=27;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#barrierDirection}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#barrierDirection}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -12935,7 +12935,7 @@ public final class R {
      */
     public static final int ConstraintSet_barrierDirection=28;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#chainUseRtl}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#chainUseRtl}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
@@ -12945,7 +12945,7 @@ public final class R {
      */
     public static final int ConstraintSet_chainUseRtl=29;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#constraint_referenced_ids}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#constraint_referenced_ids}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
@@ -12955,7 +12955,7 @@ public final class R {
      */
     public static final int ConstraintSet_constraint_referenced_ids=30;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#layout_constrainedHeight}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#layout_constrainedHeight}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
@@ -12965,7 +12965,7 @@ public final class R {
      */
     public static final int ConstraintSet_layout_constrainedHeight=31;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#layout_constrainedWidth}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#layout_constrainedWidth}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
@@ -12975,7 +12975,7 @@ public final class R {
      */
     public static final int ConstraintSet_layout_constrainedWidth=32;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#layout_constraintBaseline_creator}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#layout_constraintBaseline_creator}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
@@ -12984,7 +12984,7 @@ public final class R {
      */
     public static final int ConstraintSet_layout_constraintBaseline_creator=33;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#layout_constraintBaseline_toBaselineOf}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#layout_constraintBaseline_toBaselineOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13004,7 +13004,7 @@ public final class R {
      */
     public static final int ConstraintSet_layout_constraintBaseline_toBaselineOf=34;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#layout_constraintBottom_creator}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#layout_constraintBottom_creator}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
@@ -13013,7 +13013,7 @@ public final class R {
      */
     public static final int ConstraintSet_layout_constraintBottom_creator=35;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#layout_constraintBottom_toBottomOf}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#layout_constraintBottom_toBottomOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13033,7 +13033,7 @@ public final class R {
      */
     public static final int ConstraintSet_layout_constraintBottom_toBottomOf=36;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#layout_constraintBottom_toTopOf}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#layout_constraintBottom_toTopOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13053,7 +13053,7 @@ public final class R {
      */
     public static final int ConstraintSet_layout_constraintBottom_toTopOf=37;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#layout_constraintCircle}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#layout_constraintCircle}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13065,7 +13065,7 @@ public final class R {
      */
     public static final int ConstraintSet_layout_constraintCircle=38;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#layout_constraintCircleAngle}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#layout_constraintCircleAngle}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
@@ -13074,7 +13074,7 @@ public final class R {
      */
     public static final int ConstraintSet_layout_constraintCircleAngle=39;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#layout_constraintCircleRadius}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#layout_constraintCircleRadius}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -13087,7 +13087,7 @@ public final class R {
      */
     public static final int ConstraintSet_layout_constraintCircleRadius=40;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#layout_constraintDimensionRatio}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#layout_constraintDimensionRatio}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
@@ -13097,7 +13097,7 @@ public final class R {
      */
     public static final int ConstraintSet_layout_constraintDimensionRatio=41;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#layout_constraintEnd_toEndOf}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#layout_constraintEnd_toEndOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13117,7 +13117,7 @@ public final class R {
      */
     public static final int ConstraintSet_layout_constraintEnd_toEndOf=42;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#layout_constraintEnd_toStartOf}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#layout_constraintEnd_toStartOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13137,7 +13137,7 @@ public final class R {
      */
     public static final int ConstraintSet_layout_constraintEnd_toStartOf=43;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#layout_constraintGuide_begin}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#layout_constraintGuide_begin}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -13150,7 +13150,7 @@ public final class R {
      */
     public static final int ConstraintSet_layout_constraintGuide_begin=44;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#layout_constraintGuide_end}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#layout_constraintGuide_end}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -13163,7 +13163,7 @@ public final class R {
      */
     public static final int ConstraintSet_layout_constraintGuide_end=45;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#layout_constraintGuide_percent}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#layout_constraintGuide_percent}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
@@ -13172,7 +13172,7 @@ public final class R {
      */
     public static final int ConstraintSet_layout_constraintGuide_percent=46;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#layout_constraintHeight_default}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#layout_constraintHeight_default}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -13190,7 +13190,7 @@ public final class R {
      */
     public static final int ConstraintSet_layout_constraintHeight_default=47;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#layout_constraintHeight_max}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#layout_constraintHeight_max}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -13211,7 +13211,7 @@ public final class R {
      */
     public static final int ConstraintSet_layout_constraintHeight_max=48;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#layout_constraintHeight_min}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#layout_constraintHeight_min}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -13232,7 +13232,7 @@ public final class R {
      */
     public static final int ConstraintSet_layout_constraintHeight_min=49;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#layout_constraintHeight_percent}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#layout_constraintHeight_percent}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
@@ -13241,7 +13241,7 @@ public final class R {
      */
     public static final int ConstraintSet_layout_constraintHeight_percent=50;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#layout_constraintHorizontal_bias}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#layout_constraintHorizontal_bias}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
@@ -13250,7 +13250,7 @@ public final class R {
      */
     public static final int ConstraintSet_layout_constraintHorizontal_bias=51;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#layout_constraintHorizontal_chainStyle}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#layout_constraintHorizontal_chainStyle}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -13268,7 +13268,7 @@ public final class R {
      */
     public static final int ConstraintSet_layout_constraintHorizontal_chainStyle=52;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#layout_constraintHorizontal_weight}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#layout_constraintHorizontal_weight}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
@@ -13277,7 +13277,7 @@ public final class R {
      */
     public static final int ConstraintSet_layout_constraintHorizontal_weight=53;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#layout_constraintLeft_creator}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#layout_constraintLeft_creator}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
@@ -13286,7 +13286,7 @@ public final class R {
      */
     public static final int ConstraintSet_layout_constraintLeft_creator=54;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#layout_constraintLeft_toLeftOf}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#layout_constraintLeft_toLeftOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13306,7 +13306,7 @@ public final class R {
      */
     public static final int ConstraintSet_layout_constraintLeft_toLeftOf=55;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#layout_constraintLeft_toRightOf}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#layout_constraintLeft_toRightOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13326,7 +13326,7 @@ public final class R {
      */
     public static final int ConstraintSet_layout_constraintLeft_toRightOf=56;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#layout_constraintRight_creator}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#layout_constraintRight_creator}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
@@ -13335,7 +13335,7 @@ public final class R {
      */
     public static final int ConstraintSet_layout_constraintRight_creator=57;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#layout_constraintRight_toLeftOf}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#layout_constraintRight_toLeftOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13355,7 +13355,7 @@ public final class R {
      */
     public static final int ConstraintSet_layout_constraintRight_toLeftOf=58;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#layout_constraintRight_toRightOf}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#layout_constraintRight_toRightOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13375,7 +13375,7 @@ public final class R {
      */
     public static final int ConstraintSet_layout_constraintRight_toRightOf=59;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#layout_constraintStart_toEndOf}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#layout_constraintStart_toEndOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13395,7 +13395,7 @@ public final class R {
      */
     public static final int ConstraintSet_layout_constraintStart_toEndOf=60;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#layout_constraintStart_toStartOf}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#layout_constraintStart_toStartOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13415,7 +13415,7 @@ public final class R {
      */
     public static final int ConstraintSet_layout_constraintStart_toStartOf=61;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#layout_constraintTop_creator}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#layout_constraintTop_creator}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
@@ -13424,7 +13424,7 @@ public final class R {
      */
     public static final int ConstraintSet_layout_constraintTop_creator=62;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#layout_constraintTop_toBottomOf}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#layout_constraintTop_toBottomOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13444,7 +13444,7 @@ public final class R {
      */
     public static final int ConstraintSet_layout_constraintTop_toBottomOf=63;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#layout_constraintTop_toTopOf}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#layout_constraintTop_toTopOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13464,7 +13464,7 @@ public final class R {
      */
     public static final int ConstraintSet_layout_constraintTop_toTopOf=64;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#layout_constraintVertical_bias}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#layout_constraintVertical_bias}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
@@ -13473,7 +13473,7 @@ public final class R {
      */
     public static final int ConstraintSet_layout_constraintVertical_bias=65;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#layout_constraintVertical_chainStyle}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#layout_constraintVertical_chainStyle}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -13491,7 +13491,7 @@ public final class R {
      */
     public static final int ConstraintSet_layout_constraintVertical_chainStyle=66;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#layout_constraintVertical_weight}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#layout_constraintVertical_weight}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
@@ -13500,7 +13500,7 @@ public final class R {
      */
     public static final int ConstraintSet_layout_constraintVertical_weight=67;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#layout_constraintWidth_default}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#layout_constraintWidth_default}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -13518,7 +13518,7 @@ public final class R {
      */
     public static final int ConstraintSet_layout_constraintWidth_default=68;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#layout_constraintWidth_max}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#layout_constraintWidth_max}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -13539,7 +13539,7 @@ public final class R {
      */
     public static final int ConstraintSet_layout_constraintWidth_max=69;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#layout_constraintWidth_min}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#layout_constraintWidth_min}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -13560,7 +13560,7 @@ public final class R {
      */
     public static final int ConstraintSet_layout_constraintWidth_min=70;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#layout_constraintWidth_percent}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#layout_constraintWidth_percent}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
@@ -13569,7 +13569,7 @@ public final class R {
      */
     public static final int ConstraintSet_layout_constraintWidth_percent=71;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#layout_editor_absoluteX}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#layout_editor_absoluteX}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -13582,7 +13582,7 @@ public final class R {
      */
     public static final int ConstraintSet_layout_editor_absoluteX=72;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#layout_editor_absoluteY}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#layout_editor_absoluteY}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -13595,7 +13595,7 @@ public final class R {
      */
     public static final int ConstraintSet_layout_editor_absoluteY=73;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#layout_goneMarginBottom}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#layout_goneMarginBottom}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -13608,7 +13608,7 @@ public final class R {
      */
     public static final int ConstraintSet_layout_goneMarginBottom=74;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#layout_goneMarginEnd}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#layout_goneMarginEnd}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -13621,7 +13621,7 @@ public final class R {
      */
     public static final int ConstraintSet_layout_goneMarginEnd=75;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#layout_goneMarginLeft}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#layout_goneMarginLeft}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -13634,7 +13634,7 @@ public final class R {
      */
     public static final int ConstraintSet_layout_goneMarginLeft=76;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#layout_goneMarginRight}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#layout_goneMarginRight}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -13647,7 +13647,7 @@ public final class R {
      */
     public static final int ConstraintSet_layout_goneMarginRight=77;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#layout_goneMarginStart}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#layout_goneMarginStart}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -13660,7 +13660,7 @@ public final class R {
      */
     public static final int ConstraintSet_layout_goneMarginStart=78;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#layout_goneMarginTop}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#layout_goneMarginTop}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -13920,7 +13920,7 @@ public final class R {
       0x7f030043, 0x7f030044
     };
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#bottomSheetDialogTheme}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#bottomSheetDialogTheme}
      * attribute's value can be found in the {@link #DesignTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13932,7 +13932,7 @@ public final class R {
      */
     public static final int DesignTheme_bottomSheetDialogTheme=0;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#bottomSheetStyle}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#bottomSheetStyle}
      * attribute's value can be found in the {@link #DesignTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -14094,7 +14094,7 @@ public final class R {
       0x7f0300d6
     };
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#flexibility}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#flexibility}
      * attribute's value can be found in the {@link #ElasticView} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
@@ -14183,7 +14183,7 @@ public final class R {
      */
     public static final int FloatingActionButton_backgroundTintMode=1;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#borderWidth}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#borderWidth}
      * attribute's value can be found in the {@link #FloatingActionButton} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -14210,7 +14210,7 @@ public final class R {
      */
     public static final int FloatingActionButton_elevation=3;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#fabCustomSize}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#fabCustomSize}
      * attribute's value can be found in the {@link #FloatingActionButton} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -14223,7 +14223,7 @@ public final class R {
      */
     public static final int FloatingActionButton_fabCustomSize=4;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#fabSize}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#fabSize}
      * attribute's value can be found in the {@link #FloatingActionButton} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -14241,7 +14241,7 @@ public final class R {
      */
     public static final int FloatingActionButton_fabSize=5;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#hideMotionSpec}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#hideMotionSpec}
      * attribute's value can be found in the {@link #FloatingActionButton} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -14253,7 +14253,7 @@ public final class R {
      */
     public static final int FloatingActionButton_hideMotionSpec=6;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#hoveredFocusedTranslationZ}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#hoveredFocusedTranslationZ}
      * attribute's value can be found in the {@link #FloatingActionButton} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -14266,7 +14266,7 @@ public final class R {
      */
     public static final int FloatingActionButton_hoveredFocusedTranslationZ=7;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#maxImageSize}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#maxImageSize}
      * attribute's value can be found in the {@link #FloatingActionButton} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -14279,7 +14279,7 @@ public final class R {
      */
     public static final int FloatingActionButton_maxImageSize=8;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#pressedTranslationZ}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#pressedTranslationZ}
      * attribute's value can be found in the {@link #FloatingActionButton} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -14292,7 +14292,7 @@ public final class R {
      */
     public static final int FloatingActionButton_pressedTranslationZ=9;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#rippleColor}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#rippleColor}
      * attribute's value can be found in the {@link #FloatingActionButton} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
@@ -14303,7 +14303,7 @@ public final class R {
      */
     public static final int FloatingActionButton_rippleColor=10;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#showMotionSpec}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#showMotionSpec}
      * attribute's value can be found in the {@link #FloatingActionButton} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -14315,7 +14315,7 @@ public final class R {
      */
     public static final int FloatingActionButton_showMotionSpec=11;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#useCompatPadding}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#useCompatPadding}
      * attribute's value can be found in the {@link #FloatingActionButton} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
@@ -14339,7 +14339,7 @@ public final class R {
       0x7f030039
     };
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#behavior_autoHide}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#behavior_autoHide}
      * attribute's value can be found in the {@link #FloatingActionButton_Behavior_Layout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
@@ -14365,7 +14365,7 @@ public final class R {
       0x7f03010c, 0x7f030154
     };
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#itemSpacing}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#itemSpacing}
      * attribute's value can be found in the {@link #FlowLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -14378,7 +14378,7 @@ public final class R {
      */
     public static final int FlowLayout_itemSpacing=0;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#lineSpacing}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#lineSpacing}
      * attribute's value can be found in the {@link #FlowLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -14744,7 +14744,7 @@ public final class R {
      */
     public static final int ForegroundLinearLayout_android_foregroundGravity=1;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#foregroundInsidePadding}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#foregroundInsidePadding}
      * attribute's value can be found in the {@link #ForegroundLinearLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
@@ -14770,7 +14770,7 @@ public final class R {
       0x7f0300e6, 0x7f030104
     };
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#gifSource}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#gifSource}
      * attribute's value can be found in the {@link #GifTextureView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -14784,7 +14784,7 @@ public final class R {
      */
     public static final int GifTextureView_gifSource=0;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#isOpaque}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#isOpaque}
      * attribute's value can be found in the {@link #GifTextureView} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
@@ -14810,7 +14810,7 @@ public final class R {
       0x7f0300e4, 0x7f030162
     };
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#freezesAnimation}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#freezesAnimation}
      * attribute's value can be found in the {@link #GifView} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
@@ -14820,7 +14820,7 @@ public final class R {
      */
     public static final int GifView_freezesAnimation=0;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#loopCount}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#loopCount}
      * attribute's value can be found in the {@link #GifView} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
@@ -15586,7 +15586,7 @@ public final class R {
      */
     public static final int MaterialButton_backgroundTintMode=5;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#cornerRadius}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#cornerRadius}
      * attribute's value can be found in the {@link #MaterialButton} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -15599,7 +15599,7 @@ public final class R {
      */
     public static final int MaterialButton_cornerRadius=6;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#icon}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#icon}
      * attribute's value can be found in the {@link #MaterialButton} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -15611,7 +15611,7 @@ public final class R {
      */
     public static final int MaterialButton_icon=7;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#iconGravity}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#iconGravity}
      * attribute's value can be found in the {@link #MaterialButton} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -15628,7 +15628,7 @@ public final class R {
      */
     public static final int MaterialButton_iconGravity=8;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#iconPadding}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#iconPadding}
      * attribute's value can be found in the {@link #MaterialButton} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -15641,7 +15641,7 @@ public final class R {
      */
     public static final int MaterialButton_iconPadding=9;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#iconSize}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#iconSize}
      * attribute's value can be found in the {@link #MaterialButton} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -15693,7 +15693,7 @@ public final class R {
      */
     public static final int MaterialButton_iconTintMode=12;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#rippleColor}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#rippleColor}
      * attribute's value can be found in the {@link #MaterialButton} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
@@ -15704,7 +15704,7 @@ public final class R {
      */
     public static final int MaterialButton_rippleColor=13;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#strokeColor}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#strokeColor}
      * attribute's value can be found in the {@link #MaterialButton} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
@@ -15715,7 +15715,7 @@ public final class R {
      */
     public static final int MaterialButton_strokeColor=14;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#strokeWidth}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#strokeWidth}
      * attribute's value can be found in the {@link #MaterialButton} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -15744,7 +15744,7 @@ public final class R {
       0x7f0301ad, 0x7f0301ae
     };
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#strokeColor}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#strokeColor}
      * attribute's value can be found in the {@link #MaterialCardView} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
@@ -15755,7 +15755,7 @@ public final class R {
      */
     public static final int MaterialCardView_strokeColor=0;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#strokeWidth}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#strokeWidth}
      * attribute's value can be found in the {@link #MaterialCardView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -15851,7 +15851,7 @@ public final class R {
       0x7f0301e3, 0x7f0301e8, 0x7f0301e9, 0x7f0301ed
     };
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#bottomSheetDialogTheme}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#bottomSheetDialogTheme}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -15863,7 +15863,7 @@ public final class R {
      */
     public static final int MaterialComponentsTheme_bottomSheetDialogTheme=0;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#bottomSheetStyle}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#bottomSheetStyle}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -15875,7 +15875,7 @@ public final class R {
      */
     public static final int MaterialComponentsTheme_bottomSheetStyle=1;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#chipGroupStyle}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#chipGroupStyle}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -15887,7 +15887,7 @@ public final class R {
      */
     public static final int MaterialComponentsTheme_chipGroupStyle=2;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#chipStandaloneStyle}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#chipStandaloneStyle}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -15899,7 +15899,7 @@ public final class R {
      */
     public static final int MaterialComponentsTheme_chipStandaloneStyle=3;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#chipStyle}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#chipStyle}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -15962,7 +15962,7 @@ public final class R {
      */
     public static final int MaterialComponentsTheme_colorPrimaryDark=8;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#colorSecondary}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#colorSecondary}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
@@ -15986,7 +15986,7 @@ public final class R {
      */
     public static final int MaterialComponentsTheme_editTextStyle=10;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#floatingActionButtonStyle}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#floatingActionButtonStyle}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -16016,7 +16016,7 @@ public final class R {
      */
     public static final int MaterialComponentsTheme_floatingActionButtonStyle=11;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#materialButtonStyle}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#materialButtonStyle}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -16028,7 +16028,7 @@ public final class R {
      */
     public static final int MaterialComponentsTheme_materialButtonStyle=12;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#materialCardViewStyle}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#materialCardViewStyle}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -16040,7 +16040,7 @@ public final class R {
      */
     public static final int MaterialComponentsTheme_materialCardViewStyle=13;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#navigationViewStyle}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#navigationViewStyle}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -16052,7 +16052,7 @@ public final class R {
      */
     public static final int MaterialComponentsTheme_navigationViewStyle=14;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#scrimBackground}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#scrimBackground}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -16067,7 +16067,7 @@ public final class R {
      */
     public static final int MaterialComponentsTheme_scrimBackground=15;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#snackbarButtonStyle}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#snackbarButtonStyle}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -16079,7 +16079,7 @@ public final class R {
      */
     public static final int MaterialComponentsTheme_snackbarButtonStyle=16;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#tabStyle}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#tabStyle}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -16091,7 +16091,7 @@ public final class R {
      */
     public static final int MaterialComponentsTheme_tabStyle=17;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#textAppearanceBody1}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#textAppearanceBody1}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -16103,7 +16103,7 @@ public final class R {
      */
     public static final int MaterialComponentsTheme_textAppearanceBody1=18;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#textAppearanceBody2}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#textAppearanceBody2}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -16115,7 +16115,7 @@ public final class R {
      */
     public static final int MaterialComponentsTheme_textAppearanceBody2=19;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#textAppearanceButton}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#textAppearanceButton}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -16127,7 +16127,7 @@ public final class R {
      */
     public static final int MaterialComponentsTheme_textAppearanceButton=20;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#textAppearanceCaption}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#textAppearanceCaption}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -16139,7 +16139,7 @@ public final class R {
      */
     public static final int MaterialComponentsTheme_textAppearanceCaption=21;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#textAppearanceHeadline1}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#textAppearanceHeadline1}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -16151,7 +16151,7 @@ public final class R {
      */
     public static final int MaterialComponentsTheme_textAppearanceHeadline1=22;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#textAppearanceHeadline2}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#textAppearanceHeadline2}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -16163,7 +16163,7 @@ public final class R {
      */
     public static final int MaterialComponentsTheme_textAppearanceHeadline2=23;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#textAppearanceHeadline3}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#textAppearanceHeadline3}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -16175,7 +16175,7 @@ public final class R {
      */
     public static final int MaterialComponentsTheme_textAppearanceHeadline3=24;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#textAppearanceHeadline4}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#textAppearanceHeadline4}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -16187,7 +16187,7 @@ public final class R {
      */
     public static final int MaterialComponentsTheme_textAppearanceHeadline4=25;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#textAppearanceHeadline5}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#textAppearanceHeadline5}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -16199,7 +16199,7 @@ public final class R {
      */
     public static final int MaterialComponentsTheme_textAppearanceHeadline5=26;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#textAppearanceHeadline6}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#textAppearanceHeadline6}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -16211,7 +16211,7 @@ public final class R {
      */
     public static final int MaterialComponentsTheme_textAppearanceHeadline6=27;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#textAppearanceOverline}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#textAppearanceOverline}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -16223,7 +16223,7 @@ public final class R {
      */
     public static final int MaterialComponentsTheme_textAppearanceOverline=28;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#textAppearanceSubtitle1}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#textAppearanceSubtitle1}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -16235,7 +16235,7 @@ public final class R {
      */
     public static final int MaterialComponentsTheme_textAppearanceSubtitle1=29;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#textAppearanceSubtitle2}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#textAppearanceSubtitle2}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -16247,7 +16247,7 @@ public final class R {
      */
     public static final int MaterialComponentsTheme_textAppearanceSubtitle2=30;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#textInputStyle}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#textInputStyle}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -17017,7 +17017,7 @@ public final class R {
      */
     public static final int NavigationView_elevation=3;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#headerLayout}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#headerLayout}
      * attribute's value can be found in the {@link #NavigationView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -17029,7 +17029,7 @@ public final class R {
      */
     public static final int NavigationView_headerLayout=4;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#itemBackground}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#itemBackground}
      * attribute's value can be found in the {@link #NavigationView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -17041,7 +17041,7 @@ public final class R {
      */
     public static final int NavigationView_itemBackground=5;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#itemHorizontalPadding}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#itemHorizontalPadding}
      * attribute's value can be found in the {@link #NavigationView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -17054,7 +17054,7 @@ public final class R {
      */
     public static final int NavigationView_itemHorizontalPadding=6;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#itemIconPadding}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#itemIconPadding}
      * attribute's value can be found in the {@link #NavigationView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -17067,7 +17067,7 @@ public final class R {
      */
     public static final int NavigationView_itemIconPadding=7;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#itemIconTint}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#itemIconTint}
      * attribute's value can be found in the {@link #NavigationView} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
@@ -17078,7 +17078,7 @@ public final class R {
      */
     public static final int NavigationView_itemIconTint=8;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#itemTextAppearance}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#itemTextAppearance}
      * attribute's value can be found in the {@link #NavigationView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -17090,7 +17090,7 @@ public final class R {
      */
     public static final int NavigationView_itemTextAppearance=9;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#itemTextColor}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#itemTextColor}
      * attribute's value can be found in the {@link #NavigationView} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
@@ -17101,7 +17101,7 @@ public final class R {
      */
     public static final int NavigationView_itemTextColor=10;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#menu}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#menu}
      * attribute's value can be found in the {@link #NavigationView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -17309,7 +17309,7 @@ public final class R {
      */
     public static final int RecyclerView_android_descendantFocusability=1;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#fastScrollEnabled}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#fastScrollEnabled}
      * attribute's value can be found in the {@link #RecyclerView} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
@@ -17319,7 +17319,7 @@ public final class R {
      */
     public static final int RecyclerView_fastScrollEnabled=2;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#fastScrollHorizontalThumbDrawable}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#fastScrollHorizontalThumbDrawable}
      * attribute's value can be found in the {@link #RecyclerView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -17331,7 +17331,7 @@ public final class R {
      */
     public static final int RecyclerView_fastScrollHorizontalThumbDrawable=3;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#fastScrollHorizontalTrackDrawable}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#fastScrollHorizontalTrackDrawable}
      * attribute's value can be found in the {@link #RecyclerView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -17343,7 +17343,7 @@ public final class R {
      */
     public static final int RecyclerView_fastScrollHorizontalTrackDrawable=4;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#fastScrollVerticalThumbDrawable}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#fastScrollVerticalThumbDrawable}
      * attribute's value can be found in the {@link #RecyclerView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -17355,7 +17355,7 @@ public final class R {
      */
     public static final int RecyclerView_fastScrollVerticalThumbDrawable=5;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#fastScrollVerticalTrackDrawable}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#fastScrollVerticalTrackDrawable}
      * attribute's value can be found in the {@link #RecyclerView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -17386,7 +17386,7 @@ public final class R {
      */
     public static final int RecyclerView_layoutManager=7;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#reverseLayout}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#reverseLayout}
      * attribute's value can be found in the {@link #RecyclerView} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
@@ -17396,7 +17396,7 @@ public final class R {
      */
     public static final int RecyclerView_reverseLayout=8;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#spanCount}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#spanCount}
      * attribute's value can be found in the {@link #RecyclerView} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
@@ -17405,7 +17405,7 @@ public final class R {
      */
     public static final int RecyclerView_spanCount=9;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#stackFromEnd}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#stackFromEnd}
      * attribute's value can be found in the {@link #RecyclerView} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
@@ -17429,7 +17429,7 @@ public final class R {
       0x7f030102
     };
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#insetForeground}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#insetForeground}
      * attribute's value can be found in the {@link #ScrimInsetsFrameLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -17458,7 +17458,7 @@ public final class R {
       0x7f03003c
     };
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#behavior_overlapTop}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#behavior_overlapTop}
      * attribute's value can be found in the {@link #ScrollingViewBehavior_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -17816,7 +17816,7 @@ public final class R {
       0x7f03019d, 0x7f03019e
     };
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#snackbarButtonStyle}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#snackbarButtonStyle}
      * attribute's value can be found in the {@link #Snackbar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -17828,7 +17828,7 @@ public final class R {
      */
     public static final int Snackbar_snackbarButtonStyle=0;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#snackbarStyle}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#snackbarStyle}
      * attribute's value can be found in the {@link #Snackbar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -17885,7 +17885,7 @@ public final class R {
      */
     public static final int SnackbarLayout_elevation=1;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#maxActionInlineWidth}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#maxActionInlineWidth}
      * attribute's value can be found in the {@link #SnackbarLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -18494,7 +18494,7 @@ public final class R {
       0x7f0301d3
     };
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#tabBackground}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#tabBackground}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -18506,7 +18506,7 @@ public final class R {
      */
     public static final int TabLayout_tabBackground=0;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#tabContentStart}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#tabContentStart}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -18519,7 +18519,7 @@ public final class R {
      */
     public static final int TabLayout_tabContentStart=1;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#tabGravity}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#tabGravity}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -18536,7 +18536,7 @@ public final class R {
      */
     public static final int TabLayout_tabGravity=2;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#tabIconTint}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#tabIconTint}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
@@ -18547,7 +18547,7 @@ public final class R {
      */
     public static final int TabLayout_tabIconTint=3;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#tabIconTintMode}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#tabIconTintMode}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -18568,7 +18568,7 @@ public final class R {
      */
     public static final int TabLayout_tabIconTintMode=4;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#tabIndicator}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#tabIndicator}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -18580,7 +18580,7 @@ public final class R {
      */
     public static final int TabLayout_tabIndicator=5;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#tabIndicatorAnimationDuration}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#tabIndicatorAnimationDuration}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
@@ -18589,7 +18589,7 @@ public final class R {
      */
     public static final int TabLayout_tabIndicatorAnimationDuration=6;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#tabIndicatorColor}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#tabIndicatorColor}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
@@ -18600,7 +18600,7 @@ public final class R {
      */
     public static final int TabLayout_tabIndicatorColor=7;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#tabIndicatorFullWidth}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#tabIndicatorFullWidth}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
@@ -18610,7 +18610,7 @@ public final class R {
      */
     public static final int TabLayout_tabIndicatorFullWidth=8;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#tabIndicatorGravity}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#tabIndicatorGravity}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -18629,7 +18629,7 @@ public final class R {
      */
     public static final int TabLayout_tabIndicatorGravity=9;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#tabIndicatorHeight}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#tabIndicatorHeight}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -18642,7 +18642,7 @@ public final class R {
      */
     public static final int TabLayout_tabIndicatorHeight=10;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#tabInlineLabel}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#tabInlineLabel}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
@@ -18652,7 +18652,7 @@ public final class R {
      */
     public static final int TabLayout_tabInlineLabel=11;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#tabMaxWidth}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#tabMaxWidth}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -18665,7 +18665,7 @@ public final class R {
      */
     public static final int TabLayout_tabMaxWidth=12;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#tabMinWidth}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#tabMinWidth}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -18678,7 +18678,7 @@ public final class R {
      */
     public static final int TabLayout_tabMinWidth=13;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#tabMode}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#tabMode}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -18695,7 +18695,7 @@ public final class R {
      */
     public static final int TabLayout_tabMode=14;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#tabPadding}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#tabPadding}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -18708,7 +18708,7 @@ public final class R {
      */
     public static final int TabLayout_tabPadding=15;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#tabPaddingBottom}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#tabPaddingBottom}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -18721,7 +18721,7 @@ public final class R {
      */
     public static final int TabLayout_tabPaddingBottom=16;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#tabPaddingEnd}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#tabPaddingEnd}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -18734,7 +18734,7 @@ public final class R {
      */
     public static final int TabLayout_tabPaddingEnd=17;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#tabPaddingStart}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#tabPaddingStart}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -18747,7 +18747,7 @@ public final class R {
      */
     public static final int TabLayout_tabPaddingStart=18;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#tabPaddingTop}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#tabPaddingTop}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -18760,7 +18760,7 @@ public final class R {
      */
     public static final int TabLayout_tabPaddingTop=19;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#tabRippleColor}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#tabRippleColor}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
@@ -18771,7 +18771,7 @@ public final class R {
      */
     public static final int TabLayout_tabRippleColor=20;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#tabSelectedTextColor}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#tabSelectedTextColor}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
@@ -18782,7 +18782,7 @@ public final class R {
      */
     public static final int TabLayout_tabSelectedTextColor=21;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#tabTextAppearance}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#tabTextAppearance}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -18794,7 +18794,7 @@ public final class R {
      */
     public static final int TabLayout_tabTextAppearance=22;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#tabTextColor}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#tabTextColor}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
@@ -18805,7 +18805,7 @@ public final class R {
      */
     public static final int TabLayout_tabTextColor=23;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#tabUnboundedRipple}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#tabUnboundedRipple}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
@@ -19124,7 +19124,7 @@ public final class R {
      */
     public static final int TextInputLayout_android_hint=1;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#boxBackgroundColor}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#boxBackgroundColor}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
@@ -19135,7 +19135,7 @@ public final class R {
      */
     public static final int TextInputLayout_boxBackgroundColor=2;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#boxBackgroundMode}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#boxBackgroundMode}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -19153,7 +19153,7 @@ public final class R {
      */
     public static final int TextInputLayout_boxBackgroundMode=3;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#boxCollapsedPaddingTop}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#boxCollapsedPaddingTop}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -19166,7 +19166,7 @@ public final class R {
      */
     public static final int TextInputLayout_boxCollapsedPaddingTop=4;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#boxCornerRadiusBottomEnd}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#boxCornerRadiusBottomEnd}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -19179,7 +19179,7 @@ public final class R {
      */
     public static final int TextInputLayout_boxCornerRadiusBottomEnd=5;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#boxCornerRadiusBottomStart}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#boxCornerRadiusBottomStart}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -19192,7 +19192,7 @@ public final class R {
      */
     public static final int TextInputLayout_boxCornerRadiusBottomStart=6;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#boxCornerRadiusTopEnd}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#boxCornerRadiusTopEnd}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -19205,7 +19205,7 @@ public final class R {
      */
     public static final int TextInputLayout_boxCornerRadiusTopEnd=7;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#boxCornerRadiusTopStart}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#boxCornerRadiusTopStart}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -19218,7 +19218,7 @@ public final class R {
      */
     public static final int TextInputLayout_boxCornerRadiusTopStart=8;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#boxStrokeColor}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#boxStrokeColor}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
@@ -19229,7 +19229,7 @@ public final class R {
      */
     public static final int TextInputLayout_boxStrokeColor=9;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#boxStrokeWidth}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#boxStrokeWidth}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -19242,7 +19242,7 @@ public final class R {
      */
     public static final int TextInputLayout_boxStrokeWidth=10;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#counterEnabled}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#counterEnabled}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
@@ -19252,7 +19252,7 @@ public final class R {
      */
     public static final int TextInputLayout_counterEnabled=11;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#counterMaxLength}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#counterMaxLength}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
@@ -19261,7 +19261,7 @@ public final class R {
      */
     public static final int TextInputLayout_counterMaxLength=12;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#counterOverflowTextAppearance}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#counterOverflowTextAppearance}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -19273,7 +19273,7 @@ public final class R {
      */
     public static final int TextInputLayout_counterOverflowTextAppearance=13;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#counterTextAppearance}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#counterTextAppearance}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -19285,7 +19285,7 @@ public final class R {
      */
     public static final int TextInputLayout_counterTextAppearance=14;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#errorEnabled}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#errorEnabled}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
@@ -19295,7 +19295,7 @@ public final class R {
      */
     public static final int TextInputLayout_errorEnabled=15;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#errorTextAppearance}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#errorTextAppearance}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -19307,7 +19307,7 @@ public final class R {
      */
     public static final int TextInputLayout_errorTextAppearance=16;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#helperText}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#helperText}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
@@ -19317,7 +19317,7 @@ public final class R {
      */
     public static final int TextInputLayout_helperText=17;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#helperTextEnabled}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#helperTextEnabled}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
@@ -19327,7 +19327,7 @@ public final class R {
      */
     public static final int TextInputLayout_helperTextEnabled=18;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#helperTextTextAppearance}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#helperTextTextAppearance}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -19339,7 +19339,7 @@ public final class R {
      */
     public static final int TextInputLayout_helperTextTextAppearance=19;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#hintAnimationEnabled}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#hintAnimationEnabled}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
@@ -19349,7 +19349,7 @@ public final class R {
      */
     public static final int TextInputLayout_hintAnimationEnabled=20;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#hintEnabled}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#hintEnabled}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
@@ -19359,7 +19359,7 @@ public final class R {
      */
     public static final int TextInputLayout_hintEnabled=21;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#hintTextAppearance}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#hintTextAppearance}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -19371,7 +19371,7 @@ public final class R {
      */
     public static final int TextInputLayout_hintTextAppearance=22;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#passwordToggleContentDescription}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#passwordToggleContentDescription}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
@@ -19381,7 +19381,7 @@ public final class R {
      */
     public static final int TextInputLayout_passwordToggleContentDescription=23;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#passwordToggleDrawable}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#passwordToggleDrawable}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -19393,7 +19393,7 @@ public final class R {
      */
     public static final int TextInputLayout_passwordToggleDrawable=24;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#passwordToggleEnabled}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#passwordToggleEnabled}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
@@ -19403,7 +19403,7 @@ public final class R {
      */
     public static final int TextInputLayout_passwordToggleEnabled=25;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#passwordToggleTint}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#passwordToggleTint}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
@@ -19414,7 +19414,7 @@ public final class R {
      */
     public static final int TextInputLayout_passwordToggleTint=26;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#passwordToggleTintMode}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#passwordToggleTintMode}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -19464,7 +19464,7 @@ public final class R {
      */
     public static final int ThemeEnforcement_android_textAppearance=0;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#enforceMaterialTheme}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#enforceMaterialTheme}
      * attribute's value can be found in the {@link #ThemeEnforcement} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
@@ -19474,7 +19474,7 @@ public final class R {
      */
     public static final int ThemeEnforcement_enforceMaterialTheme=1;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#enforceTextAppearance}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#enforceTextAppearance}
      * attribute's value can be found in the {@link #ThemeEnforcement} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
@@ -19611,7 +19611,7 @@ public final class R {
      */
     public static final int Toolbar_android_minHeight=1;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#buttonGravity}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#buttonGravity}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -19768,7 +19768,7 @@ public final class R {
      */
     public static final int Toolbar_logoDescription=12;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#maxButtonHeight}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#maxButtonHeight}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -19832,7 +19832,7 @@ public final class R {
      */
     public static final int Toolbar_subtitle=17;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#subtitleTextAppearance}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#subtitleTextAppearance}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -19856,7 +19856,7 @@ public final class R {
      */
     public static final int Toolbar_subtitleTextColor=19;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#title}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#title}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
@@ -19960,7 +19960,7 @@ public final class R {
     @Deprecated
     public static final int Toolbar_titleMargins=26;
     /**
-     * <p>This symbol is the offset where the {@link android.terminology.R.attr#titleTextAppearance}
+     * <p>This symbol is the offset where the {@link android.Guide.R.attr#titleTextAppearance}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a reference to another resource, in the form
