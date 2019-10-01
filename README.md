@@ -1,0 +1,1 @@
+This is the source code for the android Developer guide- A helpfull guide to help you in learning android docs in a simple way.
